@@ -98,7 +98,7 @@ If [`uv`](http://docs.astral.sh/uv/) is installed on the system, an environment 
 uv venv -p 3.10
 ```
 
-Then activate the virtual enviroment by running:
+Then activate the virtual environment by running:
 
 - For `macOS` or `Linux` users
   ```bash
@@ -268,7 +268,7 @@ This updated paper, with its expanded author list, reflects the broader communit
 contributions and the package's enhanced capabilities in releases
 [0.23.0](https://github.com/sbi-dev/sbi/releases/tag/v0.23.3) and later.
 
-If you are using a version of `sbi` prior to 0.23.0, please cite the original sbi
+If you are using a version of `sbi` prior to 0.23.0, please cite the original `sbi`
 software paper:
 
 ```latex
@@ -287,7 +287,7 @@ software paper:
 ```
 
 Regardless of which software paper you cite, please also remember to cite the original
-research articles describing the specific sbi-algorithm(s) you are using.
+research articles describing the specific SBI algorithm(s) you are using.
 
 Specific releases of `sbi` are also citable via
 [Zenodo](https://zenodo.org/records/15034786), where we generate a new software DOI for
